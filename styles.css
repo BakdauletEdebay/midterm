@@ -24,7 +24,7 @@
 	left:0px;
 	top:-248px;
 }
-.c1_15 { 
+.c1_16 { 
 	width:777px;
 	height:877px;
 	position:absolute;
@@ -43,15 +43,16 @@
 	left:0px;
 	top:0px;
 }
-.c1_15 { 
+.c1_16 { 
 	width:720px;
 	height:629px;
 	position:absolute;
 	left:-1px;
-	top:248px;
+	top:400px;
 	background-image:url(images/poem-portrait.png);
 	background-repeat:no-repeat;
-	background-size:cover;
+	background-size:70% auto;
+	background-
 }
 .c1_15 { 
 	width:1440px;
@@ -457,7 +458,7 @@ a:active {
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.c1_83 { 
+.c1_17 { 
 	width:486px;
 	height:408px;
 	position:absolute;
