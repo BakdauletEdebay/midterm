@@ -49,7 +49,7 @@
 	position:absolute;
 	left:-1px;
 	top:248px;
-	background-image:url(images/pexels_artem_beliaikin_1832323_removebg_preview.png);
+	background-image:url(images/poem-portrait.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -71,7 +71,7 @@
 a:active {
   color: blue;
 }
-.c1_15_1_3 { 
+.cl1_15_1_3 { 
 	color:rgba(37, 40, 43, 1);
 	width:130px;
 	height:32px;
